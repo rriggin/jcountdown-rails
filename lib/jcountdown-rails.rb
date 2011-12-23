@@ -1,0 +1,1 @@
+require 'jcountdown-rails/engine'
